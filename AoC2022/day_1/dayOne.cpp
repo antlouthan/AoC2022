@@ -1,8 +1,5 @@
 #include <iostream>
-#include <vector>
 #include <fstream>
-#include <map>
-#include <list>
 using namespace std;
 
 
