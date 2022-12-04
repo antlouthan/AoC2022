@@ -143,6 +143,5 @@ int main()
 
     printf("FIRST PART: The player scored %i\n", playerScore1);
     printf("SECOND PART: The player scored %i\n", playerScore2);
-
-
+    return 0;
 }

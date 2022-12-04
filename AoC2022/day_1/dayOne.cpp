@@ -42,5 +42,5 @@ int main()
     }
     printf("%i\n", highest_1 + highest_2 + highest_3);
 
-
+    return 0;
 }
