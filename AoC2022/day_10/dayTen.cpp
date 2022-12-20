@@ -17,6 +17,10 @@
                 We care about the following tick counts: 
                     20th, 60th, 100th, 140th, 180th, and 220th
                 We then need to add up those ticks to get the final number. 
+
+    Part 2: 
+        I don't feel like typing out the strat here. I just tackled it and figured it out fairly quickly. 
+            Print some letters based on current X value and if it's within a range of "Pixels"
 */
 ////
 #include <vector>
